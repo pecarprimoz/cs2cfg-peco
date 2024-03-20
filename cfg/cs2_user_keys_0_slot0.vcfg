@@ -1,0 +1,27 @@
+"config"
+{
+	"bindings"
+	{
+		"MWHEELUP"		"+jump"
+		"v"		"slot6"
+		"MOUSE4"		"+voicerecord"
+		"`"		"toggleconsole"
+		"MWHEELDOWN"		"+duck"
+		"z"		"slot10"
+		"m"		"teammenu"
+		"x"		"slot8"
+		"SPACE"		"+jump"
+		"0"		"<unbound>"
+		"8"		"<unbound>"
+		"6"		"<unbound>"
+		"7"		"<unbound>"
+		"c"		"slot7"
+		"l"		"-attack;-attack2"
+		"4"		"<unbound>"
+		"n"		"noclip"
+		"y"		"<unbound>"
+		"h"		"+jumpthrow"
+		"j"		"+wjumpthrow"
+		"k"		"+forward;+throwaction"
+	}
+}
